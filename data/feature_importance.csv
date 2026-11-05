@@ -1,0 +1,156 @@
+Feature,Importance,Importance_Percentage
+num__Reviews,0.40419854387914683,40.41985438791468
+num__Installs,0.2079011168874481,20.790111688744812
+num__Size,0.15167569824573815,15.167569824573816
+num__Price,0.02992633217708114,2.9926332177081143
+cat__Category_TOOLS,0.013363636852636442,1.3363636852636442
+cat__Category_FAMILY,0.013242225487275449,1.324222548727545
+cat__Genres_Education,0.01318395544316949,1.318395544316949
+cat__Genres_Tools,0.011411745785910518,1.1411745785910519
+cat__Content Rating_Everyone,0.009774267416315353,0.9774267416315353
+cat__Genres_Entertainment,0.008347534817110671,0.8347534817110671
+cat__Type_Paid,0.0074108374532756835,0.7410837453275684
+cat__Category_HEALTH_AND_FITNESS,0.00720726175765709,0.7207261757657091
+cat__Type_Free,0.0070136275818998535,0.7013627581899854
+cat__Genres_Health & Fitness,0.006725368938524848,0.6725368938524848
+cat__Content Rating_Teen,0.004868779121841633,0.4868779121841633
+cat__Category_LIFESTYLE,0.004676464893085316,0.4676464893085316
+cat__Genres_Lifestyle,0.004670726620843087,0.4670726620843087
+cat__Category_PERSONALIZATION,0.004545269622256205,0.4545269622256205
+cat__Category_GAME,0.004470843169015398,0.4470843169015398
+cat__Content Rating_Mature 17+,0.004444480842819071,0.44444808428190713
+cat__Category_VIDEO_PLAYERS,0.0039660992497727995,0.3966099249772799
+cat__Genres_Medical,0.003844633451385753,0.38446334513857533
+cat__Genres_Video Players & Editors,0.0037589518933978353,0.37589518933978355
+cat__Genres_Personalization,0.003723642718800045,0.37236427188000454
+cat__Category_MEDICAL,0.0036459689367297154,0.36459689367297154
+cat__Category_FINANCE,0.00328917155995277,0.328917155995277
+cat__Category_DATING,0.003032842785664859,0.30328427856648593
+cat__Genres_Dating,0.002911194474864711,0.2911194474864711
+cat__Genres_Finance,0.0027254534378407156,0.2725453437840716
+cat__Category_BUSINESS,0.0026924207019733645,0.2692420701973364
+cat__Category_PHOTOGRAPHY,0.002626250104985224,0.26262501049852244
+cat__Category_COMMUNICATION,0.0025173780388006717,0.25173780388006717
+cat__Genres_Communication,0.0024264384042518203,0.24264384042518203
+cat__Genres_Travel & Local,0.0024226184477295367,0.24226184477295368
+cat__Category_SPORTS,0.0023072094634838847,0.23072094634838847
+cat__Genres_Business,0.0021910362500514864,0.21910362500514863
+cat__Category_TRAVEL_AND_LOCAL,0.0021016597122422358,0.21016597122422356
+cat__Genres_Photography,0.0020114882811615585,0.20114882811615586
+cat__Category_BOOKS_AND_REFERENCE,0.00197710647955677,0.197710647955677
+cat__Category_PARENTING,0.0018921558834010168,0.1892155883401017
+cat__Genres_Sports,0.0017291122368349454,0.17291122368349454
+cat__Genres_Books & Reference,0.0016189787115726436,0.16189787115726437
+cat__Genres_Card,0.0016161743980640862,0.1616174398064086
+cat__Category_MAPS_AND_NAVIGATION,0.0015694244950047941,0.15694244950047942
+cat__Genres_Events,0.001454202891865946,0.1454202891865946
+cat__Genres_Casual,0.0012665573423437495,0.12665573423437496
+cat__Genres_Maps & Navigation,0.0011788297840048254,0.11788297840048254
+cat__Genres_Social,0.0011166914841106027,0.11166914841106027
+cat__Category_SOCIAL,0.0010881590235520097,0.10881590235520097
+cat__Category_EVENTS,0.0010206521749704146,0.10206521749704146
+cat__Category_NEWS_AND_MAGAZINES,0.0009772552370814118,0.09772552370814118
+cat__Genres_Action,0.0009370941832346696,0.09370941832346696
+cat__Genres_Simulation,0.0008817958700578415,0.08817958700578415
+cat__Category_PRODUCTIVITY,0.0007782189804721472,0.07782189804721472
+cat__Genres_Food & Drink,0.0007310012405812139,0.07310012405812139
+cat__Category_ENTERTAINMENT,0.0006734848738735932,0.06734848738735932
+cat__Genres_Productivity,0.0006637854613461693,0.06637854613461694
+cat__Category_EDUCATION,0.0006261760946589474,0.06261760946589474
+cat__Genres_News & Magazines,0.0006059332526986258,0.06059332526986258
+cat__Content Rating_Everyone 10+,0.0005923974098875571,0.05923974098875571
+cat__Genres_Libraries & Demo,0.0005112665168872436,0.051126651688724364
+cat__Genres_Racing,0.000505204169790956,0.0505204169790956
+cat__Category_FOOD_AND_DRINK,0.0004247167986466873,0.04247167986466873
+cat__Genres_Parenting,0.0003168832749056686,0.03168832749056686
+cat__Category_LIBRARIES_AND_DEMO,0.00025481228372757625,0.025481228372757625
+cat__Genres_Arcade,0.00025200369571618805,0.025200369571618805
+cat__Genres_Shopping,0.00023786713493913642,0.023786713493913644
+cat__Genres_Puzzle,0.00021814642031260398,0.0218146420312604
+cat__Genres_Trivia,0.00020233695680733365,0.020233695680733365
+cat__Genres_Auto & Vehicles,0.00013283841652313443,0.013283841652313442
+cat__Category_ART_AND_DESIGN,7.455667774430725e-05,0.007455667774430724
+cat__Category_SHOPPING,7.290334027382308e-05,0.007290334027382308
+cat__Genres_Education;Education,6.868971705916211e-05,0.006868971705916211
+cat__Genres_Strategy,6.077340515226316e-05,0.006077340515226316
+cat__Category_AUTO_AND_VEHICLES,5.538971519654281e-05,0.005538971519654282
+cat__Genres_Word,5.264849917049591e-05,0.005264849917049591
+cat__Genres_Casual;Pretend Play,4.8978218601313637e-05,0.004897821860131364
+cat__Genres_Beauty,4.6500784903139674e-05,0.004650078490313968
+cat__Genres_Art & Design,3.165975559541924e-05,0.0031659755595419238
+cat__Genres_Educational,2.6189062252308346e-05,0.0026189062252308347
+cat__Genres_House & Home,2.0519481895783268e-05,0.0020519481895783266
+cat__Genres_Role Playing,1.9355970006792168e-05,0.0019355970006792167
+cat__Category_WEATHER,1.7414036192311643e-05,0.0017414036192311643
+cat__Genres_Weather,1.7196524657665463e-05,0.0017196524657665463
+cat__Genres_Comics,1.6167363085988744e-05,0.0016167363085988744
+cat__Genres_Adventure,1.582945544204202e-05,0.0015829455442042022
+cat__Category_COMICS,1.2470193799440423e-05,0.0012470193799440422
+cat__Genres_Casino,1.2409172913294586e-05,0.0012409172913294586
+cat__Genres_Educational;Education,1.1546298023618609e-05,0.0011546298023618609
+cat__Category_HOUSE_AND_HOME,8.563022241752103e-06,0.0008563022241752103
+cat__Genres_Board,5.8012222227795955e-06,0.0005801222222779596
+cat__Genres_Role Playing;Pretend Play,0.0,0.0
+cat__Genres_Puzzle;Creativity,0.0,0.0
+cat__Genres_Racing;Action & Adventure,0.0,0.0
+cat__Genres_Puzzle;Brain Games,0.0,0.0
+cat__Genres_Racing;Pretend Play,0.0,0.0
+cat__Genres_Puzzle;Action & Adventure,0.0,0.0
+cat__Genres_Art & Design;Creativity,0.0,0.0
+cat__Genres_Role Playing;Action & Adventure,0.0,0.0
+cat__Genres_Role Playing;Brain Games,0.0,0.0
+cat__Genres_Puzzle;Education,0.0,0.0
+cat__Genres_Simulation;Education,0.0,0.0
+cat__Genres_Arcade;Action & Adventure,0.0,0.0
+cat__Genres_Action;Action & Adventure,0.0,0.0
+cat__Genres_Video Players & Editors;Music & Video,0.0,0.0
+cat__Genres_Video Players & Editors;Creativity,0.0,0.0
+cat__Content Rating_Adults only 18+,0.0,0.0
+cat__Genres_Travel & Local;Action & Adventure,0.0,0.0
+cat__Content Rating_Unrated,0.0,0.0
+cat__Genres_Tools;Education,0.0,0.0
+cat__Genres_Strategy;Creativity,0.0,0.0
+cat__Genres_Adventure;Education,0.0,0.0
+cat__Genres_Strategy;Action & Adventure,0.0,0.0
+cat__Genres_Sports;Action & Adventure,0.0,0.0
+cat__Genres_Adventure;Action & Adventure,0.0,0.0
+cat__Genres_Adventure;Brain Games,0.0,0.0
+cat__Genres_Simulation;Pretend Play,0.0,0.0
+cat__Genres_Simulation;Action & Adventure,0.0,0.0
+cat__Genres_Art & Design;Pretend Play,0.0,0.0
+cat__Genres_Board;Action & Adventure,0.0,0.0
+cat__Category_BEAUTY,0.0,0.0
+cat__Genres_Education;Pretend Play,0.0,0.0
+cat__Genres_Casual;Brain Games,0.0,0.0
+cat__Genres_Casual;Creativity,0.0,0.0
+cat__Genres_Educational;Pretend Play,0.0,0.0
+cat__Genres_Educational;Creativity,0.0,0.0
+cat__Genres_Educational;Brain Games,0.0,0.0
+cat__Genres_Educational;Action & Adventure,0.0,0.0
+cat__Genres_Education;Music & Video,0.0,0.0
+cat__Genres_Entertainment;Creativity,0.0,0.0
+cat__Genres_Casual;Education,0.0,0.0
+cat__Genres_Education;Creativity,0.0,0.0
+cat__Genres_Education;Brain Games,0.0,0.0
+cat__Genres_Education;Action & Adventure,0.0,0.0
+cat__Genres_Casual;Music & Video,0.0,0.0
+cat__Genres_Communication;Creativity,0.0,0.0
+cat__Genres_Entertainment;Brain Games,0.0,0.0
+cat__Genres_Entertainment;Music & Video,0.0,0.0
+cat__Genres_Parenting;Music & Video,0.0,0.0
+cat__Genres_Lifestyle;Pretend Play,0.0,0.0
+cat__Genres_Parenting;Education,0.0,0.0
+cat__Genres_Music;Music & Video,0.0,0.0
+cat__Genres_Music & Audio;Music & Video,0.0,0.0
+cat__Genres_Music,0.0,0.0
+cat__Genres_Board;Brain Games,0.0,0.0
+cat__Genres_Board;Pretend Play,0.0,0.0
+cat__Genres_Lifestyle;Education,0.0,0.0
+cat__Genres_Entertainment;Pretend Play,0.0,0.0
+cat__Genres_Books & Reference;Education,0.0,0.0
+cat__Genres_Health & Fitness;Education,0.0,0.0
+cat__Genres_Health & Fitness;Action & Adventure,0.0,0.0
+cat__Genres_Card;Action & Adventure,0.0,0.0
+cat__Genres_Card;Brain Games,0.0,0.0
+cat__Genres_Casual;Action & Adventure,0.0,0.0
+cat__Genres_Entertainment;Action & Adventure,0.0,0.0
